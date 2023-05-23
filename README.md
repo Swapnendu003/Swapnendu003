@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swapnendu003
+- 👋 Hi, I’m Swapnendu Banerjee
 - 👀 I’m interested in Web and App Development, Data Science Enthusiast
 - 🌱 I’m currently learning Front End Web Developement and DSA
 - 📫 How to reach me https://www.linkedin.com/in/swapnendu-banerjee-36ba06219 
